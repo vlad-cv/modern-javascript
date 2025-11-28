@@ -86,16 +86,4 @@ Mastering these shortcuts will significantly increase your coding speed.
 |**Toggle Terminal**|`` Ctrl` + ` ``|`` Ctrl` + ` ``|Opens/Closes the built-in command line terminal.|
 
 ---
-
-### Pro Tip: The "Keymaps" Extension
-
-If you are coming from another editor (like IntelliJ, Vim, or Sublime Text), you don't have to relearn everything.
-
-1. Open the **Extensions** view in VS Code.
-    
-2. Search for **"Keymap"**.
-    
-3. Install the keymap for your previous editor to use those familiar shortcuts in VS Code.
-    
-
-**Would you like me to give you a small coding exercise to practice using `Ctrl + /` and the Multi-Cursor feature?**
+  
